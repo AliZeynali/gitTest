@@ -3,6 +3,7 @@
  */
 public class testGit {
     public void first (){
-        System.out.println("HI");
+        System.out.println("Hi again");
+
     }
 }
